@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./programs/simple-amm/Cargo.toml",
+        "./programs/simple-amm/Cargo.toml",
+        "./programs/simple-amm/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
